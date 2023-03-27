@@ -12,7 +12,7 @@ In the Jupyter Notebook there is everything you need to run the code, which can 
 ## Check Results
 Each row represents a different _label ratio_, while each column determines the _alpha value_. <br />
 Green box shows when Semi-Supervised Model Accuracy is higher then Supervised one.
-
+ 
 Average test accuracy on CricketX Dataset<br />
 
 ![Supervised Accuracy](https://raw.githubusercontent.com/AlessandroPaglialunga1997/Semi-Supervised-Time-Series-Classification-by-Temporal-Relation-Prediction/main/Accuracy%20using%20Semi-Supervised%20Model.png) <br />
