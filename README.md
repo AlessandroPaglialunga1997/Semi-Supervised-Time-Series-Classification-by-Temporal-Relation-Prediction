@@ -19,4 +19,4 @@ Average test accuracy (CricketX Dataset)<br />
 <br />
 Average test accuracy (InsectWingbeatSound Dataset) <br />
 
-![InsectWingbeatSound](https://raw.githubusercontent.com/AlessandroPaglialunga1997/Semi-Supervised-Time-Series-Classification-by-Temporal-Relation-Prediction/main/Accuracy%20using%20Semi-Supervised%20Model%20on%20InsectWingbeatSound.png)<br />
+![InsectWingbeatSound]<br />
