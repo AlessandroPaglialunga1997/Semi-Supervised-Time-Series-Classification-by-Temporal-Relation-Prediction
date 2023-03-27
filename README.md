@@ -8,6 +8,9 @@ In the Jupyter Notebook there is everything you need to run the code, which can 
 [CricketX](https://github.com/haoyfan/SemiTime/tree/main/datasets/CricketX)<br />
 [InsectWingbeatSound](https://github.com/haoyfan/SemiTime/tree/main/datasets/InsectWingbeatSound) 
 ## Check Results
+Each row represents a different label ratio, while each column determines the alpha value. <br />
+Green box shows when Semi-Supervised Model Accuracy is higher then Supervised one.
+
 Average test accuracy on CricketX Dataset<br />
 
 ![Supervised Accuracy](https://raw.githubusercontent.com/AlessandroPaglialunga1997/Semi-Supervised-Time-Series-Classification-by-Temporal-Relation-Prediction/main/Accuracy%20using%20Semi-Supervised%20Model.png) <br />
