@@ -5,4 +5,4 @@ In the Jupyter Notebook you can find the implementation of two different models 
 ## Run Model Training and Evaluation
 In the Jupyter Notebook there is everything you need to run the code, which can also be run in Google Colab, just run the code cells sequentially.
 ## Check Results
-![alt text](https://github.com/AlessandroPaglialunga1997/Semi-Supervised-Time-Series-Classification-by-Temporal-Relation-Prediction/1b2a29d4deeadd74ad1f3270dc8a5af76fb8a6db/Accuracy-using-Supervised-Model.png?raw=true)
+![alt text](https://raw.githubusercontent.com/AlessandroPaglialunga1997/Semi-Supervised-Time-Series-Classification-by-Temporal-Relation-Prediction/1b2a29d4deeadd74ad1f3270dc8a5af76fb8a6db/Accuracy-using-Supervised-Model.png?raw=true)
