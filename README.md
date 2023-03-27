@@ -15,7 +15,7 @@ Green box shows when Semi-Supervised Model Accuracy is higher then Supervised on
  
 Average test accuracy on CricketX Dataset<br />
 
-![Supervised Accuracy](https://raw.githubusercontent.com/AlessandroPaglialunga1997/Semi-Supervised-Time-Series-Classification-by-Temporal-Relation-Prediction/main/Accuracy%20using%20Semi-Supervised%20Model.png) <br />
+![CricketX](https://raw.githubusercontent.com/AlessandroPaglialunga1997/Semi-Supervised-Time-Series-Classification-by-Temporal-Relation-Prediction/main/Accuracy%20using%20Semi-Supervised%20Model%20on%20CricketX.png) <br />
 <br />
 Average test accuracy on InsectWingbeatSound Dataset <br />
 
